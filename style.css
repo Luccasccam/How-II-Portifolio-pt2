@@ -1,0 +1,51 @@
+
+body{
+    background: linear-gradient(#fff0e0, #ffffff);
+}
+nav .navbar-brand{
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-right: 0;    
+}
+.navbar-light .navbar-nav .active>.nav-link{
+    color: #ffffff;
+}
+nav img{
+    width: 250px;
+}
+nav form svg{
+    margin: 5px;
+    color: #ffffff;
+}
+form svg:hover{
+    height: 25px;
+    width: 25px;
+}
+.container .card{
+    margin: 10px 0px 10px 0px;
+}
+ .container .card:hover{
+    border: 1px solid #453632;
+ }
+ .mini-cake{
+     margin: 9px 0px 0px 0px;
+ }
+.titulos{
+    color: #000000;
+    font-size: 30px;
+    margin: 40px 20px 20px 20px;
+}
+.titulos:hover{
+    font-style: bold;
+    color: #453632;
+}
+.container .cards-produtos{
+    text-align: -webkit-center;
+}
+footer{
+    text-align: -webkit-center;
+}
+footer form svg{
+    margin: 5px;
+    color: #212529;
+}
